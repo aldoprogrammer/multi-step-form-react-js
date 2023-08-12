@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-Di web app ini bisa kalian kerjakan
+Di web app ini bisa kalian kerjakan sebagai 
 In the project directory, you can run:
 
 ### `npm start`
