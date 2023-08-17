@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 Di web app ini bisa kalian kerjakan sebagai step by step
-In the project directory, you can run: kan sudah k
+In the project directory, you can run: kan sudah ku
 
 ### `npm start`
 
